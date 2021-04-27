@@ -1,1 +1,1 @@
-# Phsx815_week10
+The code demonstrates the mean from a simple random integer distribution over a large number of experiments. The histogram plot shows that the mean of the high and low of the distribution is by a large margin the most common value to come out of the mean of a given series of draws from the integer distribution. It also shows that the histogram conforms to a Gaussian shape at a high number of experiments, which agrees with the central limit theorum.
